@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// Adapter for binding suggested recipes to the RecyclerView
 
 import android.view.LayoutInflater;
 import android.view.View;
