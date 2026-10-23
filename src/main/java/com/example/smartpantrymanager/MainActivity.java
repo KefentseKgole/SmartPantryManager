@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// This is the main screen that displays the user's pantry list
 
 import android.content.Intent;
 import android.os.Bundle;
