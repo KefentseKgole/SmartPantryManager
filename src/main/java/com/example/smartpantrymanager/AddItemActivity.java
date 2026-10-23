@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// Activity for adding and editing pantry items
 
 import android.os.Bundle;
 import android.text.TextUtils;
