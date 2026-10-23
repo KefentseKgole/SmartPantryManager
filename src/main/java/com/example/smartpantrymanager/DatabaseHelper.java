@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// This class manages the SQLite database creation and CRUD operations
 
 import android.content.ContentValues;
 import android.content.Context;
