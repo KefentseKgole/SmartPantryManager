@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// Activity to display the full recipe details and instructions
 
 import android.os.Bundle;
 import android.widget.TextView;
