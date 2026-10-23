@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// Adapter for binding pantry items to the RecyclerView
 
 import android.view.LayoutInflater;
 import android.view.View;
