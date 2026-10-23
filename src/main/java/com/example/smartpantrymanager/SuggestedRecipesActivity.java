@@ -1,4 +1,5 @@
 package com.example.smartpantrymanager;
+// This activity handles the strict-matching algorithm for recipes
 
 import android.content.Intent;
 import android.os.Bundle;
